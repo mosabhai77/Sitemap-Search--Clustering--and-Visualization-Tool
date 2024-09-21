@@ -17,6 +17,8 @@ This project is focused on extracting, analyzing, and visualizing sitemaps from 
      - Uses `BeautifulSoup` to parse XML files and extract individual page URLs along with metadata.
    - **CSV Export**: 
      - Users can download the extracted URL data as a CSV file for further analysis or records.
+    
+       https://github.com/mosabhai77/Sitemap-Search--Clustering--and-Visualization-Tool/blob/main/a.jpg
 
 #### **3. Clustering and Trend Analysis**
    - **Natural Language Processing (NLP)**: 
